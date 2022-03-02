@@ -1,493 +1,739 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-4K FHD
+#EXTINF:0,CCTV-4K FHD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-1 HD
+#EXTINF:100,CCTV-1 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-1 HK HD
+#EXTINF:0,CCTV-1 HK HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-2 HD
+#EXTINF:0,CCTV-2 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-3 HD
+#EXTINF:0,CCTV-3 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-4 HD
+#EXTINF:0,CCTV-4 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-5 HD
+#EXTINF:0,CCTV-5 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-5+ HD
+#EXTINF:0,CCTV-5+ HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-6 HD
+#EXTINF:0,CCTV-6 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-7 HD
+#EXTINF:0,CCTV-7 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-8 HD
+#EXTINF:0,CCTV-8 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-9 HD
+#EXTINF:0,CCTV-9 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-10 HD
+#EXTINF:0,CCTV-10 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-11 HD
+#EXTINF:0,CCTV-11 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-12 HD
+#EXTINF:0,CCTV-12 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-13 HD
+#EXTINF:0,CCTV-13 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-14 HD
+#EXTINF:0,CCTV-14 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-15 HD
+#EXTINF:0,CCTV-15 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-16 HD
+#EXTINF:0,CCTV-16 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CCTV-17 HD
+#EXTINF:0,CCTV-17 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CGTN HD
+#EXTINF:0,CGTN HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CGTN documentation HD
+#EXTINF:0,CGTN documentation HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtndochd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CGTN FR HD
+#EXTINF:0,CGTN FR HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtnfhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CGTN RU HD
+#EXTINF:0,CGTN RU HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtnehd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CGTN ARABE HD
+#EXTINF:0,CGTN ARABE HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtnahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="CCTV HD",CGTN SPAIN HD
+#EXTINF:0,CGTN SPAIN HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtnxhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",Beijing STV HD
+#EXTINF:0,Beijing STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",Hunan STV HD
+#EXTINF:0,Hunan STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",浙江STV HD
+#EXTINF:0,浙江STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/zjhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",江苏STV HD
+#EXTINF:0,江苏STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",东方STV HD
+#EXTINF:0,东方STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/dfhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",安徽STV HD
+#EXTINF:0,安徽STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/ahhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",黑龙江STV HD
+#EXTINF:0,黑龙江STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hljhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",辽宁STV HD
+#EXTINF:0,辽宁STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/lnhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",深圳STV HD
+#EXTINF:0,深圳STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/szhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",广东STV HD
+#EXTINF:0,广东STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/gdhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",天津STV HD
+#EXTINF:0,天津STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tjhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",湖北STV HD
+#EXTINF:0,湖北STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hbhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",山东STV HD
+#EXTINF:0,山东STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/sdhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",重庆STV HD
+#EXTINF:0,重庆STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",金鹰纪实 HD
+#EXTINF:0,金鹰纪实 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/gedocu.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",福建东南STV HD
+#EXTINF:0,福建东南STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/dnhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",四川STV HD
+#EXTINF:0,四川STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/schd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",河北STV HD
+#EXTINF:0,河北STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hebhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",江西STV HD
+#EXTINF:0,江西STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jxhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",河南STV HD
+#EXTINF:0,河南STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hnhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",广西STV HD
+#EXTINF:0,广西STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/gxhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",吉林STV HD
+#EXTINF:0,吉林STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jlhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",中国教育电视台1 HD
+#EXTINF:0,中国教育电视台1 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cetv1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",海南STV HD
+#EXTINF:0,海南STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/lyhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="STV HD",贵州STV HD
+#EXTINF:0,贵州STV HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/gzhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",北京文艺 HD
+#EXTINF:0,北京文艺 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv2hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",北京科教 HD
+#EXTINF:0,北京科教 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv3hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",北京影视 HD
+#EXTINF:0,北京影视 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv4hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",北京财经 HD
+#EXTINF:0,北京财经 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv5hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",北京生活 HD
+#EXTINF:0,北京生活 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv7hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",北京青年 HD
+#EXTINF:0,北京青年 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv8hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",北京新闻 HD
+#EXTINF:0,北京新闻 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv9hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",北京卡酷少儿 HD
+#EXTINF:0,北京卡酷少儿 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv10hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",北京冬奥纪实 HD
+#EXTINF:0,北京冬奥纪实 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv11hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",上海新闻综合 HD
+#EXTINF:0,上海新闻综合 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/shxwzhhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",上海东方影视 HD
+#EXTINF:0,上海东方影视 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/shdfyshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",上海都市频道 HD
+#EXTINF:0,上海都市频道 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/shdspdhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",上海外语频道 HD
+#EXTINF:0,上海外语频道 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/shwypdhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="地方频道",上海第一财经 HD
+#EXTINF:0,上海第一财经 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/shdycjhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",清华电视台
+#EXTINF:0,清华电视台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tsinghuatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",五星体育 HD
+#EXTINF:0,五星体育 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/wxtyhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",极速汽车 HD
+#EXTINF:0,极速汽车 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jsqchd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",劲爆体育 HD
+#EXTINF:0,劲爆体育 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jbtyhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",新视觉 HD
+#EXTINF:0,新视觉 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/xsjhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",魅力足球 HD
+#EXTINF:0,魅力足球 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/mlzqhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",游戏风云 HD
+#EXTINF:0,游戏风云 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/yxfyhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",全纪实 HD
+#EXTINF:0,全纪实 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/qjshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",纪实人文 HD
+#EXTINF:0,纪实人文 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/docuchina.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",CHC HD电影
+#EXTINF:0,CHC HD电影
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",CHC家庭影院
+#EXTINF:0,CHC家庭影院
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",CHC动作电影
+#EXTINF:0,CHC动作电影
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/chcatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",哈哈炫动 HD
+#EXTINF:0,哈哈炫动 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hhxdhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",金鹰卡通
+#EXTINF:0,金鹰卡通
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jykttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",优漫卡通
+#EXTINF:0,优漫卡通
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/ymkttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",新动漫
+#EXTINF:0,新动漫
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/xdmtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="特色频道",足球频道
+#EXTINF:0,足球频道
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/zqhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",乌克兰新闻频道
+#EXTINF:0,乌克兰新闻频道
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/prmua.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",今日俄罗斯电视台
+#EXTINF:0,今日俄罗斯电视台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/rt.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",俄罗斯电视台24频道
+#EXTINF:0,俄罗斯电视台24频道
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/russia24.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",CNN新闻频道
+#EXTINF:0,CNN新闻频道
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cnn.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",BBC新闻频道
+#EXTINF:0,BBC新闻频道
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/bbcnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",翡翠台(第1声道繁体)
+#EXTINF:0,翡翠台(第1声道繁体)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",翡翠台(第2声道简体)
+#EXTINF:0,翡翠台(第2声道简体)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",翡翠台海外版(粤语繁体)
+#EXTINF:0,翡翠台海外版(粤语繁体)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",翡翠台海外版(普通话简体)
+#EXTINF:0,翡翠台海外版(普通话简体)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",J2
+#EXTINF:0,J2
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",J2(第2声道)
+#EXTINF:0,J2(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/j22.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",无线新闻台
+#EXTINF:0,无线新闻台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",无线新闻台(第2声道)
+#EXTINF:0,无线新闻台(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/inews2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",明珠台
+#EXTINF:0,明珠台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",明珠台(第2声道)
+#EXTINF:0,明珠台(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",无线财经资讯台
+#EXTINF:0,无线财经资讯台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",无线财经资讯台(第2声道)
+#EXTINF:0,无线财经资讯台(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/finance2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",无线财经资讯台海外版
+#EXTINF:0,无线财经资讯台海外版
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",ViuTV
+#EXTINF:0,ViuTV
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",ViuTV(第2声道)
+#EXTINF:0,ViuTV(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",ViuTV6
+#EXTINF:0,ViuTV6
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",RTHK31
+#EXTINF:0,RTHK31
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",RTHK32
+#EXTINF:0,RTHK32
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",香港国际财经台
+#EXTINF:0,香港国际财经台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hkibc.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",香港开电视
+#EXTINF:0,香港开电视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",美亚电影台(粤语)
+#EXTINF:0,美亚电影台(粤语)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",美亚电影台(普通话)
+#EXTINF:0,美亚电影台(普通话)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",卫视电影台
+#EXTINF:0,卫视电影台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",天映频道
+#EXTINF:0,天映频道
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/typd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",天映经典
+#EXTINF:0,天映经典
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tyjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",天映经典(第2声道)
+#EXTINF:0,天映经典(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tyjd2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",HBO(第1声道粤语)
+#EXTINF:0,HBO(第1声道粤语)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",HBO(第2声道原声)
+#EXTINF:0,HBO(第2声道原声)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hbo2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",HBO Hits(第1声道粤语)
+#EXTINF:0,HBO Hits(第1声道粤语)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hbohits.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",HBO Hits(第2声道原声)
+#EXTINF:0,HBO Hits(第2声道原声)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hbohits2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",HBO Family(第1声道粤语)
+#EXTINF:0,HBO Family(第1声道粤语)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hbofamily.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",HBO Family(第2声道原声)
+#EXTINF:0,HBO Family(第2声道原声)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hbofamily2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",HBO Signature(第1声道粤语)
+#EXTINF:0,HBO Signature(第1声道粤语)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hbosignature.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",HBO Signature(第2声道原声)
+#EXTINF:0,HBO Signature(第2声道原声)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hbosignature2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",Animax
+#EXTINF:0,Animax
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/animax.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",Animax(第2声道)
+#EXTINF:0,Animax(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/animax2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",Hands Up Channel
+#EXTINF:0,Hands Up Channel
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/kid.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",Hands Up Channel(第2声道)
+#EXTINF:0,Hands Up Channel(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/kid2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",Thrill
+#EXTINF:0,Thrill
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",Thrill(第2声道)
+#EXTINF:0,Thrill(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/thrill2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",TVB经典台
+#EXTINF:0,TVB经典台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",TVB星河(粤语)
+#EXTINF:0,TVB星河(粤语)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tvbxh.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",TVB星河(普通话)
+#EXTINF:0,TVB星河(普通话)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tvbxh2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",TVB功夫台(粤语)
+#EXTINF:0,TVB功夫台(粤语)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tvbkf.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",TVB功夫(普通话)
+#EXTINF:0,TVB功夫(普通话)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",TVBS亚洲台
+#EXTINF:0,TVBS亚洲台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",TVBS新闻台
+#EXTINF:0,TVBS新闻台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",NHK WORLD Premium
+#EXTINF:0,NHK WORLD Premium
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",NHK WORLD
+#EXTINF:0,NHK WORLD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/nhkworld.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",NHK WORLD(中文字幕)
+#EXTINF:0,NHK WORLD(中文字幕)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/nhkworldzh.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",tvN
+#EXTINF:0,tvN
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tvn.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",瞬间看地球
+#EXTINF:0,瞬间看地球
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/earth.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",凤凰资讯
+#EXTINF:0,凤凰资讯
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",凤凰中文
+#EXTINF:0,凤凰中文
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",凤凰香港
+#EXTINF:0,凤凰香港
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/fhxg.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",凤凰电影
+#EXTINF:0,凤凰电影
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",Discovery
+#EXTINF:0,Discovery
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",动物星球
+#EXTINF:0,动物星球
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/animal.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",动物星球(第2声道)
+#EXTINF:0,动物星球(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/animal2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",国家地理
+#EXTINF:0,国家地理
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",国家地理(第2声道)
+#EXTINF:0,国家地理(第2声道)
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/natlgeo2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",Channel V
+#EXTINF:0,Channel V
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",星空卫视
+#EXTINF:0,星空卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="测试频道",Star Sports
+#EXTINF:0,Star Sports
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-1综合
+#EXTINF:0,CCTV-1综合
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-2财经
+#EXTINF:0,CCTV-2财经
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-3综艺
+#EXTINF:0,CCTV-3综艺
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-4中文国际
+#EXTINF:0,CCTV-4中文国际
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-5体育
+#EXTINF:0,CCTV-5体育
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv5.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-6电影
+#EXTINF:0,CCTV-6电影
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv6.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-7国防军事
+#EXTINF:0,CCTV-7国防军事
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv7.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-8电视剧
+#EXTINF:0,CCTV-8电视剧
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv8.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-9 documentation
+#EXTINF:0,CCTV-9 documentation
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv9.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-10科教
+#EXTINF:0,CCTV-10科教
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv10.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-11戏曲
+#EXTINF:0,CCTV-11戏曲
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv11.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-12社会与法
+#EXTINF:0,CCTV-12社会与法
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv12.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-13新闻
+#EXTINF:0,CCTV-13新闻
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv13.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-14少儿
+#EXTINF:0,CCTV-14少儿
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv14.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-15音乐
+#EXTINF:0,CCTV-15音乐
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv15.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CGTN
+#EXTINF:0,CGTN
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv16.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",CCTV-17农业农村
+#EXTINF:0,CCTV-17农业农村
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv17.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",文化精品
+#EXTINF:0,文化精品
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/whjptv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",老故事
+#EXTINF:0,老故事
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/lgstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",北京卫视
+#EXTINF:0,北京卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",北京文艺
+#EXTINF:0,北京文艺
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",北京科教
+#EXTINF:0,北京科教
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",北京影视
+#EXTINF:0,北京影视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",北京财经
+#EXTINF:0,北京财经
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv5.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",北京生活
+#EXTINF:0,北京生活
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv7.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",北京青年
+#EXTINF:0,北京青年
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv8.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",北京新闻
+#EXTINF:0,北京新闻
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv9.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",北京卡酷少儿
+#EXTINF:0,北京卡酷少儿
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv10.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",北京冬奥纪实
+#EXTINF:0,北京冬奥纪实
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/brtv11.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",浙江卫视
+#EXTINF:0,浙江卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/zjtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",湖南卫视
+#EXTINF:0,湖南卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hunantv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",江苏卫视
+#EXTINF:0,江苏卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",东方卫视
+#EXTINF:0,东方卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/dftv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",深圳卫视
+#EXTINF:0,深圳卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/sztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",安徽卫视
+#EXTINF:0,安徽卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/ahtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",河南卫视
+#EXTINF:0,河南卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",陕西卫视
+#EXTINF:0,陕西卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/sxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",吉林卫视
+#EXTINF:0,吉林卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",广东卫视
+#EXTINF:0,广东卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/gdtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",山东卫视
+#EXTINF:0,山东卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/sdtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",湖北卫视
+#EXTINF:0,湖北卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hbrtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",河北卫视
+#EXTINF:0,河北卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hebrtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",西藏卫视
+#EXTINF:0,西藏卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/xztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",内蒙古卫视
+#EXTINF:0,内蒙古卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/nmtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",青海卫视
+#EXTINF:0,青海卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/qhtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",四川卫视
+#EXTINF:0,四川卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/sctv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",天津卫视
+#EXTINF:0,天津卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/tjtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",山西卫视
+#EXTINF:0,山西卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/sxrtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",辽宁卫视
+#EXTINF:0,辽宁卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/lntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",厦门卫视
+#EXTINF:0,厦门卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/xmtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",新疆卫视
+#EXTINF:0,新疆卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/xjtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",黑龙江卫视
+#EXTINF:0,黑龙江卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/hljtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",云南卫视
+#EXTINF:0,云南卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/yntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",江西卫视
+#EXTINF:0,江西卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/jxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",福建东南卫视
+#EXTINF:0,福建东南卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/dntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",贵州卫视
+#EXTINF:0,贵州卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/gztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",宁夏卫视
+#EXTINF:0,宁夏卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/nxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",甘肃卫视
+#EXTINF:0,甘肃卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/gstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",重庆卫视
+#EXTINF:0,重庆卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cqtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",兵团卫视
+#EXTINF:0,兵团卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/bttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",延边卫视
+#EXTINF:0,延边卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/ybrtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",三沙卫视
+#EXTINF:0,三沙卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/sstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",海南卫视
+#EXTINF:0,海南卫视
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/lytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",辽宁影视剧
+#EXTINF:0,辽宁影视剧
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/lnysjtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",辽宁体育
+#EXTINF:0,辽宁体育
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/lntytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",中国教育电视台1
+#EXTINF:0,中国教育电视台1
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cetv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",中国教育电视台3
+#EXTINF:0,中国教育电视台3
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cetv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",中国教育电视台4
+#EXTINF:0,中国教育电视台4
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cetv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="其他标清",山东教育电视台
+#EXTINF:0,山东教育电视台
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/sdetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-4K FHD
+#EXTINF:0,CCTV-4K FHD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-1 HD
+#EXTINF:0,CCTV-1 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-1 HK HD
+#EXTINF:0,CCTV-1 HK HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-2 HD
+#EXTINF:0,CCTV-2 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-3 HD
+#EXTINF:0,CCTV-3 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-4 HD
+#EXTINF:0,CCTV-4 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-5 HD
+#EXTINF:0,CCTV-5 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-5+ HD
+#EXTINF:0,CCTV-5+ HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-6 HD
+#EXTINF:0,CCTV-6 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-7 HD
+#EXTINF:0,CCTV-7 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-8 HD
+#EXTINF:0,CCTV-8 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-9 HD
+#EXTINF:0,CCTV-9 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-10 HD
+#EXTINF:0,CCTV-10 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-11 HD
+#EXTINF:0,CCTV-11 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-12 HD
+#EXTINF:0,CCTV-12 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-13 HD
+#EXTINF:0,CCTV-13 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-14 HD
+#EXTINF:0,CCTV-14 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-15 HD
+#EXTINF:0,CCTV-15 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-16 HD
+#EXTINF:0,CCTV-16 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CCTV-17 HD
+#EXTINF:0,CCTV-17 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CGTN HD
+#EXTINF:0,CGTN HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CGTN documentation HD
+#EXTINF:0,CGTN documentation HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtndochd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CGTN FR HD
+#EXTINF:0,CGTN FR HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtnfhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CGTN俄语 HD
+#EXTINF:0,CGTN俄语 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtnehd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CGTN阿拉伯语 HD
+#EXTINF:0,CGTN阿拉伯语 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtnahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="广播",CGTN西班牙语 HD
+#EXTINF:0,CGTN西班牙语 HD
+#EXTVLCOPT:network-caching=1000
 http://iptv.tvfix.org/hls/cgtnxhd.m3u8
