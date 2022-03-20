@@ -547,8 +547,6 @@ https://www.jmsooo.com/tbs.php?id=30
 http://202.175.127.77/live/show/ch1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="palmkid",澳門互動新聞台
 http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="palmkid",澳門有線 CH3
-http://202.175.127.77/live/show/ch3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="palmkid",香港HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="palmkid",星卫电影台
