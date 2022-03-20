@@ -543,10 +543,6 @@ https://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
 http://61.58.60.230:9319/live/256.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="palmkid",蓮花衛視
 https://www.jmsooo.com/tbs.php?id=30
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="palmkid",澳門有線 CH1
-http://202.175.127.77/live/show/ch1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="palmkid",澳門互動新聞台
-http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="palmkid",香港HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="" group-title="palmkid",星卫电影台
